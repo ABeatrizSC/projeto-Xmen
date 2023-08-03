@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body, hmtl {
+    background-color: black;
+    color: white;
+    font-family: 'Oxanium', cursive;
+}
+
+header > img {
+    display: block;
+    margin: auto;
+}
+
+main {
+    background-image: image(img);
+}
